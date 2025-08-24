@@ -3,7 +3,7 @@
 
 ## ⚖️✨ Bhasha Nyaya – Justice for Everyone ✨⚖️  
 
-**Bhasha Nyaya** is a **web-based AI legal assistant** that:  
+**Bhasha Nyaya** is a **web-based AI legal assistant** that:
 - 📝 Simplifies complex **legal language**  
 - 🌐 Translates content into **multiple Indian languages**  
 - 🎙️ Enables **voice-based interaction**  
