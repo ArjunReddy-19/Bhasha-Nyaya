@@ -1,4 +1,4 @@
-# ⚖️ Bhasha Nyaya – AI-Powered Multilingual Legal Assistant
+#  ⚖️Bhasha Nyaya – AI-Powered Multilingual Legal Assistant
 ---
 
 ## ⚖️✨ Bhasha Nyaya – Justice for Everyone ✨⚖️  
