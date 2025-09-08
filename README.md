@@ -42,14 +42,20 @@
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
-| Layer        | Technologies |
-|--------------|--------------|
-| **Frontend** | HTML, CSS, JavaScript |
-| **AI/NLP**   | Azure OpenAI, Bhashini APIs |
-| **APIs**     | Bhashini (ASR, TTS, OCR, Translation), Azure Cognitive Services |
-| **Database** | None – Stateless, real-time system |
+#### 🖼️ Frontend  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+#### 🤖 AI / NLP  
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?logo=microsoftazure&logoColor=white)
+![Bhashini](https://img.shields.io/badge/Bhashini-00B8D4?logo=apachenetbeanside&logoColor=white)
+#### 🔌 APIs  
+![Bhashini APIs](https://img.shields.io/badge/Bhashini%20APIs-009688?logo=api&logoColor=white)
+![Azure Cognitive Services](https://img.shields.io/badge/Azure%20Cognitive%20Services-0078D4?logo=microsoftazure&logoColor=white)
+#### 🗃️ Database  
+![Stateless](https://img.shields.io/badge/Stateless--NoDB-grey?logo=datagrip&logoColor=white)
 
 ---
 
