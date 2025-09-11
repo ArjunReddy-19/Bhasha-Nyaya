@@ -8,7 +8,7 @@
 - 🌐 Translates content into **multiple Indian languages**  
 - 🎙️ Enables **voice-based interaction**  
 
-🕵  Making **legal help accessible** to **low-literacy** and **rural populations**.  
+📢 Making **legal help accessible** to **low-literacy** and **rural populations**.  
 
 ---
 
