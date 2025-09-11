@@ -1,14 +1,14 @@
 #  ⚖️Bhasha Nyaya – AI-Powered Multilingual Legal Assistant
 ---
 
-## ⚖️✨ Bhasha Nyaya – Justice for Everyone ✨⚖️  
+## ⚖️✨ Bhasha Nyaya – Justice for Everyone ✨⚖️ 
 
 **Bhasha Nyaya** is a **web-based AI legal assistant** that:
 - 📝 Simplifies complex **legal language**  
 - 🌐 Translates content into **multiple Indian languages**  
 - 🎙️ Enables **voice-based interaction**  
 
-🚀 Making **legal help accessible** to **low-literacy** and **rural populations**.  
+🖥️  Making **legal help accessible** to **low-literacy** and **rural populations**.  
 
 ---
 
